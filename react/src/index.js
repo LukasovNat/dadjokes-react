@@ -1,5 +1,5 @@
-let upLikes = 0;
-let downLikes = 0;
+export let upLikes = 0;
+export let downLikes = 0;
 
 const btnUp = document.querySelector('#btn-up');
 const btnDown = document.querySelector('#btn-down');
